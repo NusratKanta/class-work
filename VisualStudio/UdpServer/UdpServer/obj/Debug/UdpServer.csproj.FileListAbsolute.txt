@@ -1,0 +1,7 @@
+D:\IOT\VisualStudio\UdpServer\UdpServer\bin\Debug\UdpServer.exe.config
+D:\IOT\VisualStudio\UdpServer\UdpServer\bin\Debug\UdpServer.exe
+D:\IOT\VisualStudio\UdpServer\UdpServer\bin\Debug\UdpServer.pdb
+D:\IOT\VisualStudio\UdpServer\UdpServer\obj\Debug\UdpServer.csprojResolveAssemblyReference.cache
+D:\IOT\VisualStudio\UdpServer\UdpServer\obj\Debug\UdpServer.csproj.CoreCompileInputs.cache
+D:\IOT\VisualStudio\UdpServer\UdpServer\obj\Debug\UdpServer.exe
+D:\IOT\VisualStudio\UdpServer\UdpServer\obj\Debug\UdpServer.pdb
