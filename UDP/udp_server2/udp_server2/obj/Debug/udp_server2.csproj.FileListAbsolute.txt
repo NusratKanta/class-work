@@ -1,0 +1,14 @@
+c:\users\tamahossain\source\repos\udp_server2\udp_server2\bin\Debug\udp_server2.exe.config
+c:\users\tamahossain\source\repos\udp_server2\udp_server2\bin\Debug\udp_server2.exe
+c:\users\tamahossain\source\repos\udp_server2\udp_server2\bin\Debug\udp_server2.pdb
+c:\users\tamahossain\source\repos\udp_server2\udp_server2\obj\Debug\udp_server2.csproj.CoreCompileInputs.cache
+c:\users\tamahossain\source\repos\udp_server2\udp_server2\obj\Debug\udp_server2.exe
+c:\users\tamahossain\source\repos\udp_server2\udp_server2\obj\Debug\udp_server2.pdb
+c:\users\tamahossain\source\repos\udp_server2\udp_server2\obj\Debug\udp_server2.csprojResolveAssemblyReference.cache
+D:\IOT\UDP\udp_server2\udp_server2\bin\Debug\udp_server2.exe.config
+D:\IOT\UDP\udp_server2\udp_server2\bin\Debug\udp_server2.exe
+D:\IOT\UDP\udp_server2\udp_server2\bin\Debug\udp_server2.pdb
+D:\IOT\UDP\udp_server2\udp_server2\obj\Debug\udp_server2.csprojResolveAssemblyReference.cache
+D:\IOT\UDP\udp_server2\udp_server2\obj\Debug\udp_server2.csproj.CoreCompileInputs.cache
+D:\IOT\UDP\udp_server2\udp_server2\obj\Debug\udp_server2.exe
+D:\IOT\UDP\udp_server2\udp_server2\obj\Debug\udp_server2.pdb
